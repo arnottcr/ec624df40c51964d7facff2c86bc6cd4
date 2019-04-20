@@ -1,5 +1,5 @@
 package lib
 
-const A = "a"
+const C = "c"
 
 func Nop() {}
